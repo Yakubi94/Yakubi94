@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Yakub 👋
 
-<!--
-**Yakubi94/Yakubi94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+- Python beginner developer
+- Learning backend development (Flask)
+- Focused on building real projects, not just theory
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- Flask (REST API)
+- Git & GitHub basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Habit Tracker API (Flask + JSON storage)
+
+## Current goal
+- Improve backend skills
+- Learn databases (SQLite)
+- Build stronger portfolio projects
+
+## Contact
+- GitHub: https://github.com/Yakubi94
