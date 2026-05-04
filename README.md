@@ -8,42 +8,31 @@
 ![Flask](https://img.shields.io/badge/Flask-API-black)
 ![Status](https://img.shields.io/badge/Status-Active-green)
 
-## 🚀 About Me
-Python beginner developer focused on backend development and real-world practice.
+# Yakub | Junior Python Developer
 
-I build small projects to understand how APIs and backend systems work.
+I am a beginner Python developer focused on building practical projects and improving problem-solving skills.
 
----
+## Skills
 
-## 🧠 Current Focus
-- Python backend development
-- Flask REST APIs
-- Working with JSON data storage
-- Learning Git & project structure
+* Python (core, functions, exceptions)
+* Git & GitHub
+* Basic SQL (SQLite)
+* Basic HTML/CSS
 
----
+## Projects
 
-## 🛠 Skills
-- Python
-- Flask
-- Git / GitHub
-- JSON handling
+* Habit Tracker — CLI app to track daily habits and progress
 
----
+## Learning now
 
-## 📂 Projects
-- Habit Tracker API (Flask + JSON storage)
+* APIs (Flask / FastAPI)
+* Databases (PostgreSQL)
+* Backend fundamentals
 
-More projects coming soon...
+## Goal
 
----
+Become a backend Python developer and build real-world applications.
 
-## 🎯 Goals
-- Learn databases (SQLite, PostgreSQL)
-- Improve API design skills
-- Build full backend portfolio projects
-
----
 
 ## 📫 Contact
 GitHub: https://github.com/Yakubi94
@@ -54,42 +43,31 @@ GitHub: https://github.com/Yakubi94
 
 ## 🇷🇺 Русский
 
-## 🚀 Обо мне
-Начинающий разработчик на Python, специализирующийся на разработке бэкенда и практическом применении.
+# Якуб | Начинающий разработчик на Python
 
-Я создаю небольшие проекты, чтобы понять, как работают API и бэкенд-системы.
+Я начинающий разработчик на Python, ориентированный на создание практических проектов и совершенствование навыков решения проблем.
 
----
+## Навыки
 
-## 🧠 Текущие приоритеты
-- Разработка бэкенда на Python
-- REST API на Flask
-- Работа с хранилищем данных JSON
-- Изучение Git и структуры проекта
+* Python (ядро, функции, исключения)
+* Git и GitHub
+* Базовый SQL (SQLite)
+* Базовый HTML/CSS
 
----
+## Проекты
 
-## 🛠 Навыки
-- Python
-- Flask
-- Git/GitHub
-- Обработка JSON
+* Habit Tracker — приложение командной строки для отслеживания ежедневных привычек и прогресса
 
----
+## Изучаю сейчас
 
-## 📂 Проекты
-- API для отслеживания привычек (Flask + хранилище JSON)
+* API (Flask / FastAPI)
+* Базы данных (PostgreSQL)
+* Основы бэкенда
 
-Скоро появятся новые проекты...
+## Цель
 
----
+Стать бэкенд-разработчиком на Python и создавать реальные приложения.
 
-## 🎯 Цели
-- Изучение баз данных (SQLite, PostgreSQL)
-- Совершенствование навыков проектирования API
-- Создание полноценных проектов для портфолио бэкенда
-
----
 
 ## 📫 Контакты
 GitHub: https://github.com/Yakubi94
