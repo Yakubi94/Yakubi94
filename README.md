@@ -2,6 +2,12 @@
 
 ## 🇬🇧 English
 
+## Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![Flask](https://img.shields.io/badge/Flask-API-black)
+![Status](https://img.shields.io/badge/Status-Active-green)
+
 ## 🚀 About Me
 Python beginner developer focused on backend development and real-world practice.
 
