@@ -1,4 +1,4 @@
-# Hi, I'm Yakub 👋
+# Yakub | Junior Python Developer
 
 ## 🇬🇧 English
 
@@ -8,7 +8,6 @@
 ![Flask](https://img.shields.io/badge/Flask-API-black)
 ![Status](https://img.shields.io/badge/Status-Active-green)
 
-# Yakub | Junior Python Developer
 
 I am a beginner Python developer focused on building practical projects and improving problem-solving skills.
 
@@ -39,11 +38,10 @@ GitHub: https://github.com/Yakubi94
 
 
 
-# Привет, меня зовут Якуб 👋
-
-## 🇷🇺 Русский
 
 # Якуб | Начинающий разработчик на Python
+
+## 🇷🇺 Русский
 
 Я начинающий разработчик на Python, ориентированный на создание практических проектов и совершенствование навыков решения проблем.
 
